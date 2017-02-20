@@ -1,0 +1,4 @@
+export const TASK_CREATE = 'TASK_CREATE';
+export const TASK_UPDATED = 'TASK_UPDATED';
+export const TASK_DELETED = 'TASK_DELETED';
+export const LOAD_TASK_SUCCESS = 'LOAD_TASK_SUCCESS';
