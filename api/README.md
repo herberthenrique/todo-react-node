@@ -13,4 +13,4 @@
 
 3. Change the value of mongo uri in `src/config/enviroment/development.js`
 
-4. Run `node server` to start the development server. 
+4. Run `npm run dev` to start the development server. 
